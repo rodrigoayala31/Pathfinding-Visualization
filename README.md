@@ -1,6 +1,8 @@
 # Pathfinding-Visualization
 
-Python program implementing A* Algorithm
+Visualization of the A* Algorithm to find the shortest path between two nodes. 
+
+Built using the pygame module.
 
 # How it works:
 
